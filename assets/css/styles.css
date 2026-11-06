@@ -12,12 +12,12 @@
    ========================================================================== */
 :root {
   /* --- Bảng màu --- */
-  --color-primary: #2563eb;      /* xanh thương hiệu */
-  --color-primary-dark: #1d4ed8;
-  --color-accent: #7c3aed;       /* tím nhấn */
-  --color-text: #1e293b;         /* chữ chính */
-  --color-text-soft: #64748b;    /* chữ phụ */
-  --color-bg: #ffffff;           /* nền trang */
+  --color-primary: #0e0f0d;      /* xanh thương hiệu */
+  --color-primary-dark: #506ab4;
+  --color-accent: #a886e3;       /* tím nhấn */
+  --color-text: #627390;         /* chữ chính */
+  --color-text-soft: #5b789f;    /* chữ phụ */
+  --color-bg: #e5e7bc;           /* nền trang */
   --color-surface: #f8fafc;      /* nền vùng nhấn */
   --color-border: #e2e8f0;       /* viền */
   --color-chip: #eff6ff;         /* nền chip kỹ năng */
